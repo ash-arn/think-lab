@@ -8,7 +8,8 @@ We will be creating a bot to take coffee orders.
 ## Provisioning a Watson Assistant instance
 1. Once logged in, click on `Catalog` in the upper right corner of the screen
 2. Search for `Assistant`
-3. Under the `Watson` Category, click on `Assistant`
+3. Under the `AI` Category, click on `Watson Assistant`
+4. A service name is generated for you, but you can chagne it if you like
 4. Scroll down and make sure `Lite` Plan is selected for the free plan
 5. Click `Create`
 6. Click on `Launch tool`
